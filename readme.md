@@ -19,5 +19,13 @@ Bu proje, okullardaki "English Cafe" kütüphaneleri için geliştirilmiş, mode
 
 1. Projeyi bilgisayarınıza indirin:
    ```bash
-   git clone [https://github.com/QrynaQuadra/REPOSUNUN_ADI.git](https://github.com/QrynaQuadra/REPOSUNUN_ADI.git)
+   git clone [https://github.com/QrynaQuadra/REPOSUNUN_ADI.git](https://github.com/QrynaQuadra/Library_Tracker.git)
    cd library
+
+2. Kütüphaneleri ekleyin:
+   ```bash
+   pip install -r requirements.txt
+
+3. Kodu çalışıtırın:
+   ```bash
+   python main.py
